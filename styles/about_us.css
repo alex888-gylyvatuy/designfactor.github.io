@@ -1,0 +1,48 @@
+.bg_orange{
+	background-color: #F15512;
+	padding-bottom: 50px;
+}
+.we_us{
+	margin-top: 200px;
+}
+.we_us h6{
+	padding-top: 20px;
+	margin: 0 auto;
+	font-size: 16px;
+	font-family: 'Helvetica Now Display';
+	font-weight: 400;
+}
+.we_us h2{
+	margin: 0 auto;
+	font-size: 48px;
+    font-weight: 700;
+}
+.we_line{
+	width: 300px;
+	height: 5px;
+	background-color: #0C0C0C;
+}
+.we_us p{
+	font-size: 18px;
+	line-height: 36px;
+}
+.we_subs{
+	margin-top: 80px;
+	padding-right: 600px;
+}
+.we_subs_main{
+	font-size: 36px;
+	font-family: 'Helvetica Now Display';
+	font-weight: 700;
+}
+.we_bg{
+	background: url(img/pazl_newx.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: 700px 21px;
+}
+.we_us img{
+margin-top: 50px;
+float: right;
+width: 300px;
+}
